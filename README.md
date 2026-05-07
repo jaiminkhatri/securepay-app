@@ -1,1 +1,0 @@
-# securepay-app
